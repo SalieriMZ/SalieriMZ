@@ -23,6 +23,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gotham)
 I may not display activity on this account! 
 ## 🤝 Connect with me
-Discord: sebassxd
+[![Discord](https://img.shields.io/badge/Discord-sebassxd-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sebassxd)
 ---
 ⭐️ From [SalieriMZ](https://github.com/SalieriMZ)
