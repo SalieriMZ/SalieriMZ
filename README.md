@@ -21,7 +21,7 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gotham)
-
+I may not display activity on this account! 
 ## 🤝 Connect with me
 Discord: sebassxd
 ---
