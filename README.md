@@ -20,6 +20,4 @@
 
 
 ## 🤝 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-sebassxd-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/salierimz)
----
-⭐️ From [SalieriMZ](https://github.com/SalieriMZ)
+[![Discord](https://img.shields.io/badge/Discord-salierimz-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/salierimz)
