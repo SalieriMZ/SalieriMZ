@@ -3,7 +3,6 @@
 
 ## About Me
 💼 Working as a Fullstack Developer in a another Github account due to company restrictions. 
-🎯 Goals for 2025: [I have a current desire to develop something but i still can't get my head around it]
 
 ## 🛠️ Technologies & Tools
 ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -20,7 +19,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gotham)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SalieriMZ&show_icons=true&theme=gotham)
 I may not display activity on this account! 
 ## 🤝 Connect with me
 [![Discord](https://img.shields.io/badge/Discord-sebassxd-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sebassxd)
