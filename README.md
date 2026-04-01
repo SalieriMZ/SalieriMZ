@@ -18,10 +18,8 @@
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SalieriMZ&show_icons=true&theme=gotham)
-I may not display activity on this account! 
+
 ## 🤝 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-sebassxd-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sebassxd)
+[![Discord](https://img.shields.io/badge/Discord-sebassxd-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/salierimz)
 ---
 ⭐️ From [SalieriMZ](https://github.com/SalieriMZ)
